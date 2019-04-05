@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CustomAppointmentForm.xaml](./CS/SilverlightApplication1/CustomAppointmentForm.xaml) (VB: [CustomAppointmentForm.xaml.vb](./VB/SilverlightApplication1/CustomAppointmentForm.xaml.vb))
+* [CustomAppointmentForm.xaml](./CS/SilverlightApplication1/CustomAppointmentForm.xaml) (VB: [CustomAppointmentForm.xaml](./VB/SilverlightApplication1/CustomAppointmentForm.xaml))
 * [CustomAppointmentForm.xaml.cs](./CS/SilverlightApplication1/CustomAppointmentForm.xaml.cs) (VB: [CustomAppointmentForm.xaml.vb](./VB/SilverlightApplication1/CustomAppointmentForm.xaml.vb))
 * [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXScheduler Getting Started - Lesson 3 - Create a Custom Edit Appointment Form with Custom Fields
 
